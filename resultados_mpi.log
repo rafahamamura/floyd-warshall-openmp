@@ -1,0 +1,382 @@
+======================================================
+       INICIANDO BATERIA DE TESTES AUTOMATIZADA       
+======================================================
+
+--- Executando entr1000.dat com 2 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 1000
+   Processos alocados: 2
+======================================================
+  Repeticao 1: 0.247195 segundos
+  Repeticao 2: 0.245393 segundos
+  Repeticao 3: 0.250066 segundos
+  Repeticao 4: 0.245454 segundos
+  Repeticao 5: 0.243993 segundos
+  -> TEMPO MEDIO: 0.246420 segundos
+======================================================
+
+
+--- Executando entr1000.dat com 4 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 1000
+   Processos alocados: 4
+======================================================
+  Repeticao 1: 0.127072 segundos
+  Repeticao 2: 0.136212 segundos
+  Repeticao 3: 0.127164 segundos
+  Repeticao 4: 0.127125 segundos
+  Repeticao 5: 0.132365 segundos
+  -> TEMPO MEDIO: 0.129988 segundos
+======================================================
+
+
+--- Executando entr1000.dat com 8 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 1000
+   Processos alocados: 8
+======================================================
+  Repeticao 1: 0.122648 segundos
+  Repeticao 2: 0.122435 segundos
+  Repeticao 3: 0.122375 segundos
+  Repeticao 4: 0.122454 segundos
+  Repeticao 5: 0.122868 segundos
+  -> TEMPO MEDIO: 0.122556 segundos
+======================================================
+
+
+--- Executando entr1000.dat com 16 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 1000
+   Processos alocados: 16
+======================================================
+  Repeticao 1: 0.142467 segundos
+  Repeticao 2: 0.142219 segundos
+  Repeticao 3: 0.203362 segundos
+  Repeticao 4: 0.135682 segundos
+  Repeticao 5: 0.135112 segundos
+  -> TEMPO MEDIO: 0.151768 segundos
+======================================================
+
+
+--- Executando entr1000.dat com 32 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 1000
+   Processos alocados: 32
+======================================================
+  Repeticao 1: 0.172711 segundos
+  Repeticao 2: 0.170738 segundos
+  Repeticao 3: 0.187890 segundos
+  Repeticao 4: 0.148973 segundos
+  Repeticao 5: 0.143312 segundos
+  -> TEMPO MEDIO: 0.164725 segundos
+======================================================
+
+
+--- Executando entr2000.dat com 2 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 2000
+   Processos alocados: 2
+======================================================
+  Repeticao 1: 2.100857 segundos
+  Repeticao 2: 2.077945 segundos
+  Repeticao 3: 2.069955 segundos
+  Repeticao 4: 2.094927 segundos
+  Repeticao 5: 2.085298 segundos
+  -> TEMPO MEDIO: 2.085796 segundos
+======================================================
+
+
+--- Executando entr2000.dat com 4 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 2000
+   Processos alocados: 4
+======================================================
+  Repeticao 1: 1.333623 segundos
+  Repeticao 2: 1.068065 segundos
+  Repeticao 3: 1.064247 segundos
+  Repeticao 4: 1.060720 segundos
+  Repeticao 5: 1.118306 segundos
+  -> TEMPO MEDIO: 1.128992 segundos
+======================================================
+
+
+--- Executando entr2000.dat com 8 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 2000
+   Processos alocados: 8
+======================================================
+  Repeticao 1: 0.986716 segundos
+  Repeticao 2: 0.984435 segundos
+  Repeticao 3: 0.983983 segundos
+  Repeticao 4: 0.983721 segundos
+  Repeticao 5: 0.983955 segundos
+  -> TEMPO MEDIO: 0.984562 segundos
+======================================================
+
+
+--- Executando entr2000.dat com 16 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 2000
+   Processos alocados: 16
+======================================================
+  Repeticao 1: 1.168197 segundos
+  Repeticao 2: 1.157812 segundos
+  Repeticao 3: 1.132200 segundos
+  Repeticao 4: 2.195755 segundos
+  Repeticao 5: 1.889308 segundos
+  -> TEMPO MEDIO: 1.508655 segundos
+======================================================
+
+
+--- Executando entr2000.dat com 32 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 2000
+   Processos alocados: 32
+======================================================
+  Repeticao 1: 2.689094 segundos
+  Repeticao 2: 2.016610 segundos
+  Repeticao 3: 2.677932 segundos
+  Repeticao 4: 2.394178 segundos
+  Repeticao 5: 3.665689 segundos
+  -> TEMPO MEDIO: 2.688701 segundos
+======================================================
+
+
+--- Executando entr4000.dat com 2 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 4000
+   Processos alocados: 2
+======================================================
+  Repeticao 1: 20.488482 segundos
+  Repeticao 2: 18.795689 segundos
+  Repeticao 3: 18.723745 segundos
+  Repeticao 4: 18.730548 segundos
+  Repeticao 5: 18.758778 segundos
+  -> TEMPO MEDIO: 19.099448 segundos
+======================================================
+
+
+--- Executando entr4000.dat com 4 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 4000
+   Processos alocados: 4
+======================================================
+  Repeticao 1: 13.518926 segundos
+  Repeticao 2: 13.572000 segundos
+  Repeticao 3: 13.765853 segundos
+  Repeticao 4: 13.543201 segundos
+  Repeticao 5: 13.494968 segundos
+  -> TEMPO MEDIO: 13.578989 segundos
+======================================================
+
+
+--- Executando entr4000.dat com 8 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 4000
+   Processos alocados: 8
+======================================================
+  Repeticao 1: 13.010528 segundos
+  Repeticao 2: 13.019596 segundos
+  Repeticao 3: 13.050384 segundos
+  Repeticao 4: 13.279473 segundos
+  Repeticao 5: 13.633512 segundos
+  -> TEMPO MEDIO: 13.198699 segundos
+======================================================
+
+
+--- Executando entr4000.dat com 16 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 4000
+   Processos alocados: 16
+======================================================
+  Repeticao 1: 14.763182 segundos
+  Repeticao 2: 14.539677 segundos
+  Repeticao 3: 14.132082 segundos
+  Repeticao 4: 14.622236 segundos
+  Repeticao 5: 14.113507 segundos
+  -> TEMPO MEDIO: 14.434137 segundos
+======================================================
+
+
+--- Executando entr4000.dat com 32 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 4000
+   Processos alocados: 32
+======================================================
+  Repeticao 1: 14.142233 segundos
+  Repeticao 2: 14.672111 segundos
+  Repeticao 3: 14.600565 segundos
+  Repeticao 4: 14.514795 segundos
+  Repeticao 5: 14.311645 segundos
+  -> TEMPO MEDIO: 14.448270 segundos
+======================================================
+
+
+--- Executando entr8000.dat com 2 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 8000
+   Processos alocados: 2
+======================================================
+  Repeticao 1: 148.440977 segundos
+  Repeticao 2: 148.266889 segundos
+  Repeticao 3: 148.605215 segundos
+  Repeticao 4: 148.596397 segundos
+  Repeticao 5: 148.629209 segundos
+  -> TEMPO MEDIO: 148.507737 segundos
+======================================================
+
+
+--- Executando entr8000.dat com 4 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 8000
+   Processos alocados: 4
+======================================================
+  Repeticao 1: 117.163528 segundos
+  Repeticao 2: 118.120868 segundos
+  Repeticao 3: 116.924300 segundos
+  Repeticao 4: 116.256571 segundos
+  Repeticao 5: 115.825649 segundos
+  -> TEMPO MEDIO: 116.858183 segundos
+======================================================
+
+
+--- Executando entr8000.dat com 8 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 8000
+   Processos alocados: 8
+======================================================
+  Repeticao 1: 117.579398 segundos
+  Repeticao 2: 117.851954 segundos
+  Repeticao 3: 117.605958 segundos
+  Repeticao 4: 118.058967 segundos
+  Repeticao 5: 118.627715 segundos
+  -> TEMPO MEDIO: 117.944798 segundos
+======================================================
+
+
+--- Executando entr8000.dat com 16 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 8000
+   Processos alocados: 16
+======================================================
+  Repeticao 1: 121.191070 segundos
+  Repeticao 2: 122.092701 segundos
+  Repeticao 3: 121.861534 segundos
+  Repeticao 4: 121.563635 segundos
+  Repeticao 5: 121.531529 segundos
+  -> TEMPO MEDIO: 121.648094 segundos
+======================================================
+
+
+--- Executando entr8000.dat com 32 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 8000
+   Processos alocados: 32
+======================================================
+  Repeticao 1: 121.359139 segundos
+  Repeticao 2: 121.622666 segundos
+  Repeticao 3: 122.077509 segundos
+  Repeticao 4: 121.431786 segundos
+  Repeticao 5: 121.337253 segundos
+  -> TEMPO MEDIO: 121.565671 segundos
+======================================================
+
+
+--- Executando entr16000.dat com 2 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 16000
+   Processos alocados: 2
+======================================================
+  Repeticao 1: 1180.279350 segundos
+  Repeticao 2: 1181.383312 segundos
+  Repeticao 3: 1179.611303 segundos
+  Repeticao 4: 1179.885933 segundos
+  Repeticao 5: 1178.134778 segundos
+  -> TEMPO MEDIO: 1179.858935 segundos
+======================================================
+
+
+--- Executando entr16000.dat com 4 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 16000
+   Processos alocados: 4
+======================================================
+  Repeticao 1: 934.521780 segundos
+  Repeticao 2: 934.360617 segundos
+  Repeticao 3: 934.490947 segundos
+  Repeticao 4: 932.874941 segundos
+  Repeticao 5: 933.326216 segundos
+  -> TEMPO MEDIO: 933.914900 segundos
+======================================================
+
+
+--- Executando entr16000.dat com 8 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 16000
+   Processos alocados: 8
+======================================================
+  Repeticao 1: 943.151852 segundos
+  Repeticao 2: 945.224140 segundos
+  Repeticao 3: 956.666006 segundos
+  Repeticao 4: 947.011976 segundos
+  Repeticao 5: 952.571376 segundos
+  -> TEMPO MEDIO: 948.925070 segundos
+======================================================
+
+
+--- Executando entr16000.dat com 16 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 16000
+   Processos alocados: 16
+======================================================
+  Repeticao 1: 958.607663 segundos
+  Repeticao 2: 956.008473 segundos
+  Repeticao 3: 957.845487 segundos
+  Repeticao 4: 957.932552 segundos
+  Repeticao 5: 957.065165 segundos
+  -> TEMPO MEDIO: 957.491868 segundos
+======================================================
+
+
+--- Executando entr16000.dat com 32 processos ---
+
+======================================================
+   BENCHMARK FLOYD-WARSHALL MPI | GRAFO N = 16000
+   Processos alocados: 32
+======================================================
+  Repeticao 1: 957.570780 segundos
+  Repeticao 2: 958.531604 segundos
+  Repeticao 3: 958.651619 segundos
+  Repeticao 4: 958.184524 segundos
+  Repeticao 5: 958.012666 segundos
+  -> TEMPO MEDIO: 958.190239 segundos
+======================================================
+
+
+======================================================
+   BATERIA FINALIZADA! Log salvo em: resultados_mpi.log        
+======================================================
